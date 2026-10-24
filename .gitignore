@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Generated/uploaded files
+uploads/
+decoded/
+
+# Datasets
+datasets/
+
+# ML model files
+*.pkl
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Frontend build
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
